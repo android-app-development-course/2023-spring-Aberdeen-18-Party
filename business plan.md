@@ -1,5 +1,4 @@
 # 2023-spring-Aberdeen-18-Party
-## 代码和小组汇报在另一个branch中
 ## Party APP Business Plan
 ### 1.APP introduction
 Party is an open mobile social application that provides college students with a multi-directional and scenario-based social experience.
